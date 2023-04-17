@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "contrution of rapid and simple API rest full",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioFreitasUFSC21/SimpleBackAPI-rest-with-MySQL.git"
+  },
+  "author": "\"Marcio Freitas in 17/04/23\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioFreitasUFSC21/SimpleBackAPI-rest-with-MySQL/issues"
+  },
+  "homepage": "https://github.com/MarcioFreitasUFSC21/SimpleBackAPI-rest-with-MySQL#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.3",
+    "nodemon": "^2.0.22"
+  }
+}
